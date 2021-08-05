@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leandroolivera1256
-- 👀 I’m interested in programming, videogames and web design...
-- 🌱 I’m currently learning computer science in Facultad de Ingeniería UDELAR (Uruguay)...
+- 👀 I’m interested in programming, videogames and web design
+- 🌱 I’m currently learning computer science in Facultad de Ingeniería UDELAR (Uruguay)
 - 📫 How to reach me:
   mail: leandroolivera1256@gmail.com
   instagram: @leandroolivera20
